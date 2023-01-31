@@ -1,6 +1,6 @@
 {
 	"name": "sveltekit-vercel-hybrid-edge",
-	"version": "1.0.0",
+	"version": "1.0.6",
 	"description": "🪂 Build for the edge but fall back to serverless functions if necessary.",
 	"exports": {
 		"import": "./dist/index.js"
